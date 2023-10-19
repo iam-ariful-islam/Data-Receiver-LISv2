@@ -40,7 +40,7 @@ sudo pip install -r requirements.txt
 
 ## Project screenshots
 **Main**<br/>
-<img alt="main" src="[https://github.com/iam-ariful-islam/Data-Receiver-LISv2/screenshots/main.png](https://github.com/iam-ariful-islam/Data-Receiver-LISv2/blob/main/screenshots/main.PNG)" />
+<img alt="main" src="https://github.com/iam-ariful-islam/Data-Receiver-LISv2/blob/main/screenshots/main.PNG" />
 
 **Output**<br/>
 <img alt="output" src="https://github.com/iam-ariful-islam/Data-Receiver-LISv2/screenshots/result.png" />
