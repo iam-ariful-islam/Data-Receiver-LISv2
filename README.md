@@ -43,7 +43,7 @@ sudo pip install -r requirements.txt
 <img alt="main" src="https://github.com/iam-ariful-islam/Data-Receiver-LISv2/blob/main/screenshots/main.PNG" />
 
 **Output**<br/>
-<img alt="output" src="https://github.com/iam-ariful-islam/Data-Receiver-LISv2/screenshots/result.png" />
+<img alt="output" src="https://github.com/iam-ariful-islam/Data-Receiver-LISv2/blob/main/screenshots/result.PNG" />
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/lSAVfkJ4Psw)](https://youtu.be/lSAVfkJ4Psw)
 
