@@ -1,0 +1,42 @@
+1. First download, install and configure latest version of python on your system If not installed.
+    https://www.python.org/downloads/
+
+2. Create a folder and set name. (Exp. folder_name "Project").
+
+3. Unzip "Data Receiver LISv2.zip" file into "Project" folder.
+
+4. Open "Command Prompt" into "Project"  folder.
+
+5. Then create python virtual environment into "Project" folder.
+    python -m venv <virtual_folder_name>
+    Exp. virtual_folder_name "myvenv"
+    python -m venv myvenv
+
+6. Goto "myvenv" folder and active virtual environment.
+    cd myvenv/Script
+    activate
+
+7. Then go back from "myvenv" folder.
+    cd ..
+    cd ..
+
+8. Goto "Data Receiver LISv2".
+    cd "Data Receiver LISv2"
+
+9. Then install project dependencies
+    pip install -r requirements.txt
+
+10. After install all dependencies, run project.
+    python main_window.py
+
+
+Note:
+----------------
+1. you can use directly or use after creating virtual environment
+2. Default username & password "admin"
+3. If needed then update pip
+   python.exe -m pip install --upgrade pip
+
+
+
+Enjoy thyself with Project...! & If any query or any trouble then contact or see the video
