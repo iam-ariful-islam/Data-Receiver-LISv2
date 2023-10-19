@@ -40,10 +40,10 @@ sudo pip install -r requirements.txt
 
 ## Project screenshots
 **Main**<br/>
-<img alt="dark_mode" src="screenshots/main.png" />
+<img alt="main" src="https://github.com/iam-ariful-islam/Data-Receiver-LISv2/screenshots/main.png" />
 
 **Output**<br/>
-<img alt="light_mode" src="screenshots/result.png" />
+<img alt="output" src="https://github.com/iam-ariful-islam/Data-Receiver-LISv2/screenshots/result.png" />
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/lSAVfkJ4Psw)](https://youtu.be/lSAVfkJ4Psw)
 
